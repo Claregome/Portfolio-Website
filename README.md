@@ -10,11 +10,15 @@ The website is designed with a clean, modern layout and is fully responsive, ens
 You can view the live website here: https://claregome.netlify.app/
 
 ## Features
-👤 About Me section highlighting my background and interests
-💻 Projects section showcasing my work and GitHub repositories
-🛠️ Skills section displaying my technical expertise
-📱 Fully responsive design for all screen sizes
-📬 Contact section for easy communication
+ About Me section highlighting my background and interests
+ 
+Projects section showcasing my work and GitHub repositories
+
+Skills section displaying my technical expertise
+
+Fully responsive design for all screen sizes
+
+Contact section for easy communication
 
 ## Technologies Used
 HTML5
